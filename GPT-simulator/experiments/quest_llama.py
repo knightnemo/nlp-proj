@@ -64,6 +64,10 @@ def parse_args():
     # Make a boolean parameter, "notlive", which defaults to False
     parser.add_argument("--notlive", dest='notlive', action='store_true', default=False)
 
+    # 添加 model 参数
+    parser.add_argument("--model", type=str, default="TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+                        help="Model name or path")
+
     args = parser.parse_args()
     return args
 
