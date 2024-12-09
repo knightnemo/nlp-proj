@@ -5,7 +5,10 @@ import json
 import random
 import json
 
-from bytes32.utils import stream_llm_gpt
+# from bytes32.utils import stream_llm_gpt
+def stream_llm_gpt(prompt, model=None, response_format=None):
+    # 这个函数在使用 Llama 时不会被调用，只是为了保持接口兼容
+    raise NotImplementedError("This function is only for OpenAI GPT models")
 
 from math import ceil
 import sys

@@ -13,14 +13,19 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
 # API imports
-from openai import OpenAI
 from together import Together  # 如果使用 Together API
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from scripts.evaluate import evaluate, make_game_state, make_game_state_partial, evaluate_score
 from requests.exceptions import ChunkedEncodingError
 from llama_utils.llama_interface import LlamaConfig, LlamaInterface
-from experiments.quest_gpt import preprocess_obj_desc, getTokenLength, loadProgram, postProcess, recover_game_state_from_partial
+from experiments.quest_gpt import (
+    preprocess_obj_desc, 
+    getTokenLength, 
+    loadProgram, 
+    postProcess, 
+    recover_game_state_from_partial
+)
 
 def parse_args():
     parser = argparse.ArgumentParser()
