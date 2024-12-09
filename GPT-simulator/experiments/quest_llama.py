@@ -466,7 +466,9 @@ def main():
                 stream=True,
                 response_format={"type": "json_object"}
             )
+            print("\n=== Model Response ===")
             print(response)
+            print("=====================\n")
 
             numTokens_response = getTokenLength(response)
             print("")
