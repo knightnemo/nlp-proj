@@ -26,7 +26,7 @@ CUDA_VISIBLE_DEVICES=0 nohup python experiments/quest_llama.py --model_path "met
 # Llama-3-10B - Meta's 10B parameter chat model from Llama 3 family
 CUDA_VISIBLE_DEVICES=2 nohup python experiments/quest_llama.py --model_path "meta-llama/Llama-3-10b-chat-hf" --model_type local --output_prefix llama3_10b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial --load_in_8bit True > llama3_10b.log 2>&1 &
 
-# Llama-2-13B - Meta's 13B parameter chat model from Llama 3 family 
+# Llama-2-13B - Meta's 13B parameter chat model from Llama 2 family 🛠️
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Llama-2-13b-hf" --model_type local --output_prefix llama3_14b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama2_13b.log 2>&1 &
 
 # Llama-3-34B - Meta's 34B parameter chat model from Llama 3 family
@@ -35,9 +35,9 @@ CUDA_VISIBLE_DEVICES=2 nohup python experiments/quest_llama.py --model_path "met
 # Mixtral-8x7B - Mistral AI's mixture of experts model with 8 experts of 7B parameters each
 CUDA_VISIBLE_DEVICES=2 nohup python experiments/quest_llama.py --model_path "mistralai/Mixtral-8x7B-v0.1" --model_type local --output_prefix mixtral_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial --load_in_4bit True > mixtral.log 2>&1 &
 
-# Together
+# Llama-3-70B-Instruct-Turbo ✅
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Llama-3.3-70B-Instruct-Turbo" --model_type together --output_prefix llama3_70b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_70b.log 2>&1 &
-# Llama-3-405B-Instruct-Turbo
+# Llama-3-405B-Instruct-Turbo ✅
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" --model_type together --output_prefix llama3_405b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_405b.log 2>&1 &
-# Qwen/Qwen1.5-32B-Chat
+# Qwen/Qwen1.5-32B-Chat ✅
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "Qwen/QwQ-32B-Preview" --model_type together --output_prefix qwen_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > qwen_32b.log 2>&1 &
