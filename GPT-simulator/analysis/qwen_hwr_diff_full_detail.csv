@@ -1,0 +1,1059 @@
+game,state_id,format,action,uuid,name,type,obj_stat,gold_stat,prop_key,prop,is_modified,gold_prop
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,40,1,put,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,40,1,put,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,40,1,put,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,40,1,put,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,40,1,put,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,40,1,put,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,40,1,put,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,249,1,inventory,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,249,1,inventory,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,249,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,249,1,inventory,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,249,1,inventory,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,249,1,inventory,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,249,1,inventory,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,isOpenable,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,isOpen,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,containerPrefix,1,0,0
+lit-lightbulb,44,1,connect,1,room (ID: 1),World,3,1,contains,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,isOpenable,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,isOpen,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,containerPrefix,1,0,0
+lit-lightbulb,44,1,connect,0,agent (ID: 0),Agent,3,1,contains,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,is_electrical_object,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,conductive,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,connects,0,1,1
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,on,1,0,0
+lit-lightbulb,44,1,connect,2,light bulb (ID: 2),LightBulb,1,1,contains,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,is_electrical_object,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,conductive,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,connects,0,1,1
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,is_wire,1,0,0
+lit-lightbulb,44,1,connect,3,red wire (ID: 3),Wire,1,1,contains,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,conductive,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,connects,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,44,1,connect,4,black wire (ID: 4),Wire,3,1,contains,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,conductive,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,connects,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,44,1,connect,5,blue wire (ID: 5),Wire,3,1,contains,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,isContainer,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,isMoveable,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,is_electrical_object,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,conductive,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,connects,1,0,0
+lit-lightbulb,44,1,connect,6,battery (ID: 6),Battery,3,1,contains,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,108,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,108,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,0,1,0
+lit-lightbulb,108,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,108,1,connect,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,108,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,108,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,108,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,305,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,305,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,305,1,connect,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,305,1,connect,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,305,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,305,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,305,1,connect,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,183,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,183,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,0,1,0
+lit-lightbulb,183,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,183,1,connect,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,183,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,183,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,183,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,372,1,look,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,372,1,look,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,372,1,look,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,372,1,look,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,372,1,look,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,372,1,look,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,372,1,look,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,1,1,inventory,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,1,1,inventory,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,1,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,1,1,inventory,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,1,1,inventory,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,1,1,inventory,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,1,1,inventory,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,248,1,look,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,248,1,look,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,248,1,look,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,248,1,look,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,248,1,look,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,248,1,look,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,248,1,look,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,280,1,put,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,280,1,put,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,280,1,put,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,280,1,put,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,280,1,put,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,280,1,put,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,280,1,put,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,isOpenable,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,isOpen,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,containerPrefix,1,0,0
+lit-lightbulb,239,1,connect,1,room (ID: 1),World,3,1,contains,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,isOpenable,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,isOpen,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,containerPrefix,1,0,0
+lit-lightbulb,239,1,connect,0,agent (ID: 0),Agent,3,1,contains,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,is_electrical_object,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,conductive,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,connects,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,on,1,0,0
+lit-lightbulb,239,1,connect,2,light bulb (ID: 2),LightBulb,3,1,contains,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,conductive,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,connects,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,239,1,connect,3,red wire (ID: 3),Wire,3,1,contains,1,0,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,is_electrical_object,1,0,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,conductive,1,0,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,connects,0,1,1
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,is_wire,2,1,0
+lit-lightbulb,239,1,connect,4,black wire (ID: 4),Wire,1,1,contains,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,conductive,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,connects,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,239,1,connect,5,blue wire (ID: 5),Wire,3,1,contains,1,0,0
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,isContainer,1,0,0
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,isMoveable,1,0,0
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,is_electrical_object,1,0,0
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,conductive,1,0,0
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,connects,0,1,1
+lit-lightbulb,239,1,connect,6,battery (ID: 6),Battery,1,1,contains,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,447,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,447,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,447,1,connect,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,447,1,connect,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,447,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,447,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,447,1,connect,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,231,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,231,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,1,0,0
+lit-lightbulb,231,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,is_electrical_object,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,conductive,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,connects,0,1,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,is_wire,1,0,0
+lit-lightbulb,231,1,connect,3,red wire (ID: 3),Wire,1,0,contains,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,231,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,231,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,231,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,107,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,107,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,1,0,0
+lit-lightbulb,107,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,107,1,connect,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,107,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,107,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,107,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,124,1,look,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,124,1,look,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,124,1,look,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,124,1,look,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,124,1,look,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,124,1,look,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,124,1,look,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,412,1,put,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,412,1,put,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,412,1,put,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,412,1,put,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,412,1,put,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,412,1,put,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,412,1,put,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,431,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,431,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,1,0,0
+lit-lightbulb,431,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,is_electrical_object,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,conductive,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,connects,0,1,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,is_wire,1,0,0
+lit-lightbulb,431,1,connect,3,red wire (ID: 3),Wire,1,0,contains,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,431,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,431,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,431,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,359,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,359,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,1,0,0
+lit-lightbulb,359,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,is_electrical_object,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,conductive,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,connects,0,1,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,is_wire,1,0,0
+lit-lightbulb,359,1,connect,3,red wire (ID: 3),Wire,1,0,contains,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,359,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,359,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,359,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,125,1,inventory,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,125,1,inventory,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,125,1,inventory,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,125,1,inventory,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,125,1,inventory,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,125,1,inventory,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,125,1,inventory,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,0,1,look,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,0,1,look,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,is_electrical_object,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,conductive,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,connects,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,on,1,0,0
+lit-lightbulb,0,1,look,2,light bulb (ID: 2),LightBulb,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,conductive,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,connects,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,0,1,look,3,red wire (ID: 3),Wire,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,0,1,look,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,0,1,look,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,isContainer,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,isMoveable,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,is_electrical_object,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,conductive,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,connects,1,0,0
+lit-lightbulb,0,1,look,6,battery (ID: 6),Battery,3,0,contains,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,isOpenable,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,isOpen,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,containerPrefix,1,0,0
+lit-lightbulb,226,1,connect,1,room (ID: 1),World,3,1,contains,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,isOpenable,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,isOpen,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,containerPrefix,1,0,0
+lit-lightbulb,226,1,connect,0,agent (ID: 0),Agent,3,1,contains,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,is_electrical_object,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,conductive,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,connects,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,on,1,0,0
+lit-lightbulb,226,1,connect,2,light bulb (ID: 2),LightBulb,3,1,contains,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,conductive,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,connects,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,226,1,connect,3,red wire (ID: 3),Wire,3,1,contains,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,is_electrical_object,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,conductive,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,connects,0,1,1
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,is_wire,1,0,0
+lit-lightbulb,226,1,connect,4,black wire (ID: 4),Wire,1,1,contains,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,is_electrical_object,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,conductive,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,connects,0,1,1
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,is_wire,1,0,0
+lit-lightbulb,226,1,connect,5,blue wire (ID: 5),Wire,1,1,contains,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,isContainer,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,isMoveable,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,is_electrical_object,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,conductive,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,connects,1,0,0
+lit-lightbulb,226,1,connect,6,battery (ID: 6),Battery,3,1,contains,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,isOpenable,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,isOpen,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,containerPrefix,1,0,0
+lit-lightbulb,134,1,take,1,room (ID: 1),World,1,1,contains,0,1,1
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,isOpenable,1,0,0
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,isOpen,1,0,0
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,containerPrefix,1,0,0
+lit-lightbulb,134,1,take,0,agent (ID: 0),Agent,1,1,contains,0,1,1
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,conductive,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,connects,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,134,1,take,5,blue wire (ID: 5),Wire,3,1,contains,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,is_electrical_object,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,conductive,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,connects,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,on,1,0,0
+lit-lightbulb,134,1,take,2,light bulb (ID: 2),LightBulb,3,1,contains,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,conductive,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,connects,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,134,1,take,3,red wire (ID: 3),Wire,3,1,contains,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,is_electrical_object,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,conductive,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,connects,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,is_wire,1,0,0
+lit-lightbulb,134,1,take,4,black wire (ID: 4),Wire,3,1,contains,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,isContainer,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,isMoveable,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,is_electrical_object,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,conductive,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,connects,1,0,0
+lit-lightbulb,134,1,take,6,battery (ID: 6),Battery,3,1,contains,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,isOpenable,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,isOpen,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,containerPrefix,1,0,0
+lit-lightbulb,180,1,connect,1,room (ID: 1),World,3,0,contains,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,isOpenable,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,isOpen,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,containerPrefix,1,0,0
+lit-lightbulb,180,1,connect,0,agent (ID: 0),Agent,3,0,contains,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,is_electrical_object,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,conductive,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,connects,0,1,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,on,1,0,0
+lit-lightbulb,180,1,connect,2,light bulb (ID: 2),LightBulb,1,0,contains,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,is_electrical_object,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,conductive,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,connects,0,1,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,is_wire,1,0,0
+lit-lightbulb,180,1,connect,3,red wire (ID: 3),Wire,1,0,contains,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,conductive,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,connects,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,180,1,connect,4,black wire (ID: 4),Wire,3,0,contains,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,is_electrical_object,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,conductive,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,connects,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,is_wire,1,0,0
+lit-lightbulb,180,1,connect,5,blue wire (ID: 5),Wire,3,0,contains,1,0,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,isContainer,1,0,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,isMoveable,1,0,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,is_electrical_object,1,0,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,conductive,1,0,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,connects,0,1,0
+lit-lightbulb,180,1,connect,6,battery (ID: 6),Battery,1,0,contains,1,0,0

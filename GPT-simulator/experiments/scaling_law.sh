@@ -43,3 +43,4 @@ CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "met
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "Qwen/QwQ-32B-Preview" --model_type together --output_prefix qwen_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > qwen_32b_test.log 2>&1 &
 
 python ./scripts/results_analysis.py --prefix llama3_70b_hwr_diff_full --exp_type full --output_folder analysis --n_shards 1
+python ./scripts/results_analysis.py --prefix qwen_hwr_diff_full --exp_type full --output_folder analysis --n_shards 1
