@@ -47,10 +47,16 @@ def loadProgram(filename):
 
 # Postprocessing model response, keep only the code chunck ```python ```
 def postProcess(raw_response):
+    import re
+    json_pattern = r'```json(.*?)```'
+    match = re.search(json_pattern, raw_response, re.DOTALL)
     if raw_response.startswith("```json"):
-        return raw_response[8:-4]
+        json_str = raw_response[8:-4].strip()
+        return json_str.replace('\n', '').replace('\r', '')
+    elif match:
+        return match.group(1).strip().replace('\n', '').replace('\r', '')
     else:
-        return raw_response
+        return raw_response.strip().replace('\n', '').replace('\r', '')
 
 
 
