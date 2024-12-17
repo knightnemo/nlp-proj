@@ -589,7 +589,7 @@ def main():
 
         print(f"Total tokens: {total_tokens_prompt}")
         print(f"Game {game}, State {state_id}, Num_errors: {num_errors}")
-        if not is_correct:
+        if not ƒ:
             statistics[game]["total_errors"] += 1
         if game not in prompt_tokens:
             prompt_tokens[game] = total_tokens_prompt
