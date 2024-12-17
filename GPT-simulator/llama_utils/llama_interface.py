@@ -56,6 +56,16 @@ class LlamaInterface:
         elif self.config.model_type == "together":
             self.client = Together(api_key=self.config.api_key)
     
+    def reset_chat(self):
+        """Reset chat history and context"""
+        if self.config.model_type == "local":
+            # For local models, we might need to clear any cached states
+            if hasattr(self.model, 'reset_chat_state'):
+                self.model.reset_chat_state()
+        else:
+            # For API clients, create new client instance
+            self._init_api_client()
+    
     def generate(self, prompt: str, stream: bool = False, **kwargs) -> str:
         """Generate response from either local model or API"""
         if self.config.model_type == "local":

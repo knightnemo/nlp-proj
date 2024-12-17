@@ -460,7 +460,7 @@ def main():
         total_tokens_prompt += numTokens_prompt
 
         if not args.notlive:
-
+            llm.reset_chat()
             response = llm.generate(
                 prompt=prompt, 
                 stream=True,
@@ -475,22 +475,21 @@ def main():
             print("Responded with " + str(numTokens_response) + " tokens.")
             print("")
             # Ask LLM to extract JSON from previous response
-            extract_prompt = f"""Please extract only the JSON object from the following response. Return only the JSON object without any additional text or markdown:
+            extract_prompt = f"""Please extract only the JSON object from the following response. Return only the JSON object without any additional text or markdown, In one line, do not start with```json, just give the raw json string.
 
-{response}"""
-            
+{response} Return only the JSON object without any additional text or markdown, this is crucial as you will be evaluated for following the format. In one line, do not start with```json, just give the raw json string."""
+            llm.reset_chat()
             json_response = llm.generate(
                 prompt=extract_prompt,
                 stream=True,
                 response_format={"type": "json_object"}
             )
-            
+            json_response=postProcess(json_response)
             print("\n=== Extracted JSON by LLM ===")
             print(json_response)
             print("=====================\n")
             
             numTokens_json = getTokenLength(json_response)
-            json_response=postProcess(json_response)
             print(f"Extracted JSON tokens: {numTokens_json}")
             print("")
             
@@ -610,6 +609,7 @@ def main():
         print(f"Game {game}, State {state_id}, Num_errors: {num_errors}")
         if not is_correct:
             statistics[game]["total_errors"] += 1
+            print("Total Errors"+str(statistics[game]["total_errors"]))
         if game not in prompt_tokens:
             prompt_tokens[game] = total_tokens_prompt
         else:
