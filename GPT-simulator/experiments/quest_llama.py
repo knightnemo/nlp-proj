@@ -474,14 +474,33 @@ def main():
             print("")
             print("Responded with " + str(numTokens_response) + " tokens.")
             print("")
+            # Ask LLM to extract JSON from previous response
+            extract_prompt = f"""Please extract only the JSON object from the following response. Return only the JSON object without any additional text or markdown:
 
+{response}"""
+            
+            json_response = llm.generate(
+                prompt=extract_prompt,
+                stream=True,
+                response_format={"type": "json_object"}
+            )
+            
+            print("\n=== Extracted JSON by LLM ===")
+            print(json_response)
+            print("=====================\n")
+            
+            numTokens_json = getTokenLength(json_response)
+            json_response=postProcess(json_response)
+            print(f"Extracted JSON tokens: {numTokens_json}")
+            print("")
+            
             output_str += 'Response:\n'
             output_str += response
             output_str += '\n===================================================\n'
             output_str += 'Target:\n'
             output_str += json.dumps(data_target)
             output_str += '\n===================================================\n'
-
+            response=json_response
             try:
                 prediction = json.loads(response)
                 if args.partial and args.data_type != "score":
@@ -589,7 +608,7 @@ def main():
 
         print(f"Total tokens: {total_tokens_prompt}")
         print(f"Game {game}, State {state_id}, Num_errors: {num_errors}")
-        if not ƒ:
+        if not is_correct:
             statistics[game]["total_errors"] += 1
         if game not in prompt_tokens:
             prompt_tokens[game] = total_tokens_prompt
