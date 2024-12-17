@@ -1,6 +1,10 @@
 {
     "games": [
-        "lit-lightbulb"
+        "lit-lightbulb",
+        "volume-container",
+        "balance-scale-weigh",
+        "blood-type",
+        "plant-tree"
     ],
     "example": "dishwasher"
 }

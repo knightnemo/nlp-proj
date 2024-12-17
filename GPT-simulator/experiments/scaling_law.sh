@@ -36,9 +36,9 @@ CUDA_VISIBLE_DEVICES=2 nohup python experiments/quest_llama.py --model_path "met
 CUDA_VISIBLE_DEVICES=2 nohup python experiments/quest_llama.py --model_path "mistralai/Mixtral-8x7B-v0.1" --model_type local --output_prefix mixtral_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial --load_in_4bit True > mixtral.log 2>&1 &
 
 # Llama-3-70B-Instruct-Turbo ✅
-CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Llama-3.3-70B-Instruct-Turbo" --model_type together --output_prefix llama3_70b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_70b.log 2>&1 &
+CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Llama-3.3-70B-Instruct-Turbo" --model_type together --output_prefix llama3_70b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_70b_scale.log 2>&1 &
 # Llama-3-405B-Instruct-Turbo ✅
-CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" --model_type together --output_prefix llama3_405b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_405b.log 2>&1 &
+CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" --model_type together --output_prefix llama3_405b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > llama3_405b_scale.log 2>&1 &
 # Qwen/Qwen1.5-32B-Chat ✅
 CUDA_VISIBLE_DEVICES=1 nohup python experiments/quest_llama.py --model_path "Qwen/QwQ-32B-Preview" --model_type together --output_prefix qwen_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial > qwen_32b_test.log 2>&1 &
 
