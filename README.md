@@ -8,6 +8,7 @@ Model through Decentralized Generation
 and Centralized Verification</h2>
 
 
+
 We introduce DreamFactory, a step towards Text-Based World Models that:
 1. Simulates world states by leveraging the power of Large Language Models
 2. Combines decentralized generation and centralized verification
@@ -50,5 +51,11 @@ Third-party API providers(together api)
 # For third-party api providers
 CUDA_VISIBLE_DEVICES=1 python experiments/quest_llama.py --model_path "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" --model_type together --output_prefix llama3_405b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial
 ```
+## Contact
+Please contact us or post an issue if you have any questions (as a course project, we do expect to encounter some questions lol).
+
+Siqiao Huang (huang-sq23,chengpy23,guojh23@mails.tsinghua.edu.cn)
+Pingyue Sheng (chengpy23@mails.tsinghua.edu.cn)
+Jiahe Guo (guojh23@mails.tsinghua.edu.cn)
 ## Acknowledgement
 The `text-simulator` part of this codebase is based on the implementation from [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485).
