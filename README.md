@@ -18,86 +18,37 @@ We introduce DreamFactory, a step towards Text-Based World Models that:
 [[Paper]](https://cloud.tsinghua.edu.cn/f/9611f6eef7114ff7b679/?dl=1)
 [[Code]](https://github.com/knightnemo/nlp-proj.)
 
-## Table of Contents
+<div align=center>
+<img src="assets/framework.png" width = "780" alt="struct" align=center />
+</div>
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+## News
+- __[2024/12/21]__ Release training and inference code.
+- __[2024/12/21]__ Release the paper.
 
-## Introduction
+## Setup
+Run the following Command:
+```shell
+conda create -n dreamfactory python=3.11.0 
+conda activate pandora
+pip install -r
+```
+## API key
+This project supports OPENAI API key, third-party API providers(together api) and local downloaded language models.
 
-The LMDWM project aims to provide more accurate game state predictions and decision support by integrating multiple predictive models and large language models. The project uses PyTorch for model training and leverages LLM for result analysis.
-
-## Features
-
-- **State Prediction**: Utilize the `StatePredictor` class for predicting game states.
-- **Ensemble Prediction**: Combine multiple predictions using the `EnsemblePredictor` class.
-- **Model Training**: Train a multi-layer perceptron (MLP) model for game states using the `train_wm.py` script.
-- **Data Processing**: Process game data through the `GameStateProcessor` class.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/LMDWM.git
-   cd LMDWM
-   ```
-
-2. Create and activate a virtual environment (optional):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Use venv\Scripts\activate on Windows
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-1. Train the model:
-   ```python
-   from train_wm import train_model
-
-   model, processor = train_model('path/to/your/datafile.csv', epochs=100, batch_size=32)
-   ```
-
-2. Use ensemble prediction:
-   ```python
-   from state_predictor import EnsemblePredictor
-   from llama_interface import LlamaInterface
-
-   predictor = StatePredictor()
-   llm = LlamaInterface()
-   ensemble_predictor = EnsemblePredictor(predictor, llm)
-
-   state = {...}  # Current game state
-   action = "move_forward"
-   reward = 1.0
-   predictions = ensemble_predictor.predict_with_ensemble(state, action, reward)
-   ```
-
-## Dependencies
-
-- `torch` - For deep learning models
-- `numpy` - For numerical computations
-- `requests` - For HTTP requests (if using LLM API)
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Example:
+```shell
+cd text-simulator
+```
+Local downloaded language models:
+```shell
+# For local models (Mistral-7B-v0.1 for example)
+CUDA_VISIBLE_DEVICES=0 python experiments/quest_llama.py --model_path "mistralai/Mistral-7B-v0.1" --model_type local --output_prefix mistral_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial
+```
+Third-party API providers(together api)
+```shell
+# For third-party api providers
+CUDA_VISIBLE_DEVICES=1 python experiments/quest_llama.py --model_path "meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo" --model_type together --output_prefix llama3_405b_hwr_diff_full --device cuda --rule_folder ./rules/human_written_rules --output_folder results --data_type full --partial
+```
+## Acknowledgement
+The `text-simulator` part of this codebase is based on the implementation from [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485).
