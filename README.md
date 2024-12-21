@@ -55,7 +55,9 @@ CUDA_VISIBLE_DEVICES=1 python experiments/quest_llama.py --model_path "meta-llam
 Please contact us or post an issue if you have any questions (as a course project, we do expect to encounter some questions lol).
 
 Siqiao Huang (huang-sq23,chengpy23,guojh23@mails.tsinghua.edu.cn)
+
 Pingyue Sheng (chengpy23@mails.tsinghua.edu.cn)
+
 Jiahe Guo (guojh23@mails.tsinghua.edu.cn)
 ## Acknowledgement
 The `text-simulator` part of this codebase is based on the implementation from [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485).
