@@ -55,7 +55,7 @@ CUDA_VISIBLE_DEVICES=1 python experiments/quest_llama.py --model_path "meta-llam
 ## Contact
 Please contact us or post an issue if you have any questions (as a course project, we do expect to encounter some questions lol).
 
-📬 Siqiao Huang (huang-sq23,chengpy23,guojh23@mails.tsinghua.edu.cn)
+📬 Siqiao Huang (huang-sq23@mails.tsinghua.edu.cn)
 
 📬 Pingyue Sheng (chengpy23@mails.tsinghua.edu.cn)
 
