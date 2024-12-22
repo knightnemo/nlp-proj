@@ -2,7 +2,7 @@
 <p align="center">
     <img src="assets/icon1.png" width="250"/>
 </p>
-<h2 align="center"> DreamFactory:
+<h2 align="center"> 🏭 DreamFactory:
 Grounding Language Models to World
 Model through Decentralized Generation
 and Centralized Verification</h2>
@@ -10,8 +10,8 @@ and Centralized Verification</h2>
 
 
 We introduce DreamFactory, a step towards Text-Based World Models that:
-1. Simulates world states by leveraging the power of Large Language Models
-2. Combines decentralized generation and centralized verification
+1. 🌍 Simulates world states by leveraging the power of Large Language Models
+2. 🧬 Combines decentralized generation and centralized verification
 
 **For Details, Check Out [[Paper]](https://cloud.tsinghua.edu.cn/f/9611f6eef7114ff7b679/?dl=1)**
 
