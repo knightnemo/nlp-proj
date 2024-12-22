@@ -24,6 +24,7 @@ We introduce DreamFactory, a step towards Text-Based World Models that:
 </div>
 
 ## News
+- __[2024/12/22]__ Our observation of Self-Refutation hindering performance is supported by [[Understanding the Dark Side of LLMs' Intrinsic Self-Correction]](https://arxiv.org/abs/2412.14959) through extensive experiments, great work!
 - __[2024/12/21]__ Release training and inference code.
 - __[2024/12/21]__ Release the paper.
 
@@ -54,10 +55,10 @@ CUDA_VISIBLE_DEVICES=1 python experiments/quest_llama.py --model_path "meta-llam
 ## Contact
 Please contact us or post an issue if you have any questions (as a course project, we do expect to encounter some questions lol).
 
-Siqiao Huang (huang-sq23,chengpy23,guojh23@mails.tsinghua.edu.cn)
+📬 Siqiao Huang (huang-sq23,chengpy23,guojh23@mails.tsinghua.edu.cn)
 
-Pingyue Sheng (chengpy23@mails.tsinghua.edu.cn)
+📬 Pingyue Sheng (chengpy23@mails.tsinghua.edu.cn)
 
-Jiahe Guo (guojh23@mails.tsinghua.edu.cn)
+📬 Jiahe Guo (guojh23@mails.tsinghua.edu.cn)
 ## Acknowledgement
 The `text-simulator` part of this codebase is based on the implementation from [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485).
